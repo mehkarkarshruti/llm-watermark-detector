@@ -1,6 +1,6 @@
 import hashlib
 
-SECRET_KEY = "trutlab26"
+SECRET_KEY = "aiengineer"
 GAMMA = 0.5
 
 def is_green(word, secret_key = SECRET_KEY, gamma = GAMMA):
